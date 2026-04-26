@@ -1,0 +1,14 @@
+# Ignore datasets
+data/
+
+# Ignore models
+models/*.h5
+models/*.pkl
+models/*.joblib
+
+# Ignore zip files
+*.zip
+
+# Ignore cache
+__pycache__/
+*.pyc
